@@ -19,5 +19,5 @@ int main() {
     int x = 7;
     int pos = binary_search_index(A, n, x);
     if (pos != -1) cout << "Tim thay " << x << " tai vi tri " << pos << "\n";
-    else           cout << "Khong tim thay " << x << "\n";
+    else cout << "Khong tim thay " << x << "\n";
 }
