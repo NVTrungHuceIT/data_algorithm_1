@@ -20,6 +20,5 @@ int main() {
         cout << "Tim thay " << x << " tai vi tri: " << pos << endl;
     else
         cout << "Khong tim thay " << x << endl;
-
     return 0;
 }
